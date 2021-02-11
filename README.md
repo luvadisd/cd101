@@ -1,6 +1,6 @@
 # My repo
 
-Modules:
+K-pop top artists:
 1. Джинён
 2. Доён
 3. Джухон
